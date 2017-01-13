@@ -1,0 +1,22 @@
+{
+  "name": "file-metadata",
+  "version": "1.0.0",
+  "description": "freeCodeCamp File Metadata Microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tchaffee/fcc-file-metadata.git"
+  },
+  "author": "Todd Chaffee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tchaffee/fcc-file-metadata/issues"
+  },
+  "homepage": "https://github.com/tchaffee/fcc-file-metadata#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
